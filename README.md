@@ -1,1 +1,1 @@
-# Chiken_disease_classification
+# Chicken_disease_classification
